@@ -16,7 +16,6 @@ https://ngo-basti-ki-pathshala.netlify.app/
 
 - Overview
 - Features/Pages & Screenshots
-- Demo video
 - Tech stack
 - Getting started
 - Build and deploy
@@ -77,13 +76,6 @@ A clean, responsive NGO website built to inform, inspire, and mobilize support f
 * **Gallery Page** : The Gallery section visually showcases the NGO’s activities, featuring images and videos of students engaged in learning, community events, and volunteer interactions. It offers visitors an immersive glimpse into the organization's impact, fostering a deeper emotional connection and understanding of its mission.
 
 ![Gallery](public/ngo-basti-ki-pathshala/ngo-basti-ki-pathshala.netlify.app-gallery_screen.png)
-
----
-
-## 🎥 Demo Video
-
-- Demo screen recording:  
-  ![Website Demo Video](public/ngo-basti-ki-pathshala/ngo-basti-ki-pathshala.netlify.app-demo_video.gif)
 
 ---
 
