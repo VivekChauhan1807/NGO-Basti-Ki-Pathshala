@@ -7,7 +7,7 @@
 ## 🔥 Live Site
 
 ```bash
-- https://ngo-basti-ki-pathshala.netlify.app/
+https://ngo-basti-ki-pathshala.netlify.app/
 ```
 
 ---
@@ -71,6 +71,7 @@ A clean, responsive NGO website built to inform, inspire, and mobilize support f
 ![News & Events](public/ngo-basti-ki-pathshala/ngo-basti-ki-pathshala.netlify.app-news&events_screen.png)
 
 * **Our Team Page** : The Our Team page introduces the passionate individuals driving the organization's mission, featuring profiles of interns and volunteers who share their experiences and contributions. It emphasizes collaboration, mentorship, and the collective effort behind the NGO's impact, inviting others to join the movement for educational equity.
+
 ![Our Team](public/ngo-basti-ki-pathshala/ngo-basti-ki-pathshala.netlify.app-ourteam_screen.png)
 
 * **Gallery Page** : The Gallery section visually showcases the NGO’s activities, featuring images and videos of students engaged in learning, community events, and volunteer interactions. It offers visitors an immersive glimpse into the organization's impact, fostering a deeper emotional connection and understanding of its mission.
@@ -105,7 +106,7 @@ A clean, responsive NGO website built to inform, inspire, and mobilize support f
 1. Clone the repository
 
 ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/VivekChauhan1807/NGO-Basti-Ki-Pathshala.git
    cd ngo-project
 ```
 
