@@ -83,7 +83,7 @@ A clean, responsive NGO website built to inform, inspire, and mobilize support f
 ## 🎥 Demo Video
 
 - Demo screen recording:  
-  ![Website Demo Video](public/ngo-basti-ki-pathshala/ngo-basti-ki-pathshala.netlify.app-demo_video.mp4)
+  ![Website Demo Video](public/ngo-basti-ki-pathshala/ngo-basti-ki-pathshala.netlify.app-demo_video.gif)
 
 ---
 
